@@ -1,4 +1,4 @@
-
+<!--
 **JeffersonLuizCruz/JeffersonLuizCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,20 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
+-->
 
 
-### Welcome to my GitHub
-> 😄 Linus Torvalds — 'Talk is cheap. Show me the code.'
-#### ```Private String name = "Jefferson Luiz";```
 
-Develop Java (Spring Boot)
+ Welcome to my GitHub
+😄 Hello, it's me
 
 
-- Favorite Operating System? Unix Debian.
-- Three favorite Programming Language? Java, TypeScript and 😄dont know.
-- Favorite hobby on the web? I like to participate in an internet forum.
-- Development IDE? Eclipse and Visual Studio Code.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-luiz-cruz-0aa13a59/)](https://www.linkedin.com/in/jefferson-luiz-cruz-0aa13a59/) 
-[![Gmail Badge](https://img.shields.io/badge/-jefferson.luiz.cruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefferson.luiz.cruz@gmail.com)](mailto:jefferson.luiz.cruz@gmail.com)
 
+
+- Favorite Operating System? Windows
+- Favorite hobby? Photography,trail and image editing
