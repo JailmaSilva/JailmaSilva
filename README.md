@@ -18,10 +18,7 @@ Here are some ideas to get you started:
  Welcome to my GitHub
 
 😄 Hello, it's me
-
-
-
-
+  "Making the complicated simple is easy. Making the complicated simple, that's creativity."
 
 - Favorite Operating System? Windows
-- Favorite hobby? Photography,trail and image editing
+- Favorite hobby? Photography, trail and friends
