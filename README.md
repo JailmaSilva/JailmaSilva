@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 😄 Hello, it's me
 
+Hello World!
+I am a student and an eternal apprentice. 
+Follow my evolution here on my Github!🤓💻
+
 
 - Favorite Operating System? Windows
 - Favorite hobby? Photography, trail and friends
