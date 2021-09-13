@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
  Welcome to my GitHub
 
-😄 Hello, it's me
+"Hello it's me" 🙋🏼‍♀️
 
 Hello World!
+
 I am a student and an eternal apprentice.
-Follow my development here on my GitHub! 🤓💻
+Follow my development here on my GitHub! 
+🤓💻
 
 - Favorite Operating System? Windows
 - Favorite hobby? Photography, trail and friends
