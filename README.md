@@ -23,7 +23,7 @@ Hello, World! 🤓
 
 
 I am a student and an eternal apprentice.
-Follow my development here on my GitHub!
+Follow my development here on my GitHub!🤓
 
 
 - Favorite Operating System? Windows
